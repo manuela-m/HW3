@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "79293002942",
+    "firebase_url": "https://mani-e5384.firebaseio.com",
+    "project_id": "mani-e5384",
+    "storage_bucket": "mani-e5384.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79293002942:android:16f73b3b91e1dcb991daef",
+        "android_client_info": {
+          "package_name": "com.example.maniapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79293002942-42m7v71og738l8fp99q6jrl81lnls28c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwGpZTrg577PfYEXNesUa2zl0mj00nQz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79293002942-42m7v71og738l8fp99q6jrl81lnls28c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
